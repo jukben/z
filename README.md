@@ -1,6 +1,6 @@
 # z
 
-This package provides Z script inside Fish sell
+This package provides [Z script](https://github.com/rupa/z) inside Fish sell
 
 Basically fork of https://github.com/oh-my-fish/plugin-z
 
