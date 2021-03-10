@@ -8,5 +8,5 @@ Basically fork of https://github.com/oh-my-fish/plugin-z
 
 ```
 brew install z
-fisher add jukben/z
+fisher install jukben/z
 ```
