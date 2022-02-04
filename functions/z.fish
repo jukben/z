@@ -1,5 +1,5 @@
 function z -d "Bridge Z to the Fish shell"
-  set -lx Z_SCRIPT_PATH /usr/local/etc/profile.d/z.sh 
+  set -lx Z_SCRIPT_PATH /opt/homebrew/etc/profile.d/z.sh
 
   # Start a Bash process, source z, run the _z function, and capture the working directory and exit status.
   bash -c '
